@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
  <version>0.9.6-beta3</version>
- <bpm>72</bpm>
+ <bpm>127</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
  <author>Unknown</author>
  <notes>Empty song.</notes>
  <license>Unknown license</license>
- <loopEnabled>false</loopEnabled>
+ <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
- <mode>pattern</mode>
+ <mode>song</mode>
  <humanize_time>0.14</humanize_time>
  <humanize_velocity>0.2</humanize_velocity>
  <swing_factor>0.14</swing_factor>
@@ -41,7 +41,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/kick_Dry_b.flac</filename>
+    <filename>//kick_Dry_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -84,7 +84,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/stick_Woody.flac</filename>
+    <filename>//stick_Woody.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -127,7 +127,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/sn_Jazz_c.flac</filename>
+    <filename>//sn_Jazz_c.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -170,7 +170,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/clap_Dry_c.flac</filename>
+    <filename>//clap_Dry_c.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -213,7 +213,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/Snare_Rock_ghost.wav</filename>
+    <filename>//Snare_Rock_ghost.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -238,7 +238,7 @@
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
-   <gain>1</gain>
+   <gain>2</gain>
    <filterActive>true</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
@@ -256,7 +256,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/Snare_Reg_1a.wav</filename>
+    <filename>//Snare_Reg_1a.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -299,7 +299,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/sn_Wet_b.flac</filename>
+    <filename>//sn_Wet_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -342,7 +342,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/tom_Rock_lo.flac</filename>
+    <filename>//tom_Rock_lo.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -385,7 +385,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/hhc_Dry_a.flac</filename>
+    <filename>//hhc_Dry_a.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -428,7 +428,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/tom_Rock_mid.flac</filename>
+    <filename>//tom_Rock_mid.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -471,7 +471,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/hhp_Dry_a.flac</filename>
+    <filename>//hhp_Dry_a.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -514,7 +514,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/tom_Rock_hi.flac</filename>
+    <filename>//tom_Rock_hi.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -557,7 +557,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/hhc_Rock_b.flac</filename>
+    <filename>//hhc_Rock_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -600,7 +600,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/misc_Cowbell.flac</filename>
+    <filename>//misc_Cowbell.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -643,7 +643,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/cym_Jazz.flac</filename>
+    <filename>//cym_Jazz.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -686,7 +686,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/cra_Rock_a.flac</filename>
+    <filename>//cra_Rock_a.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -729,7 +729,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/cym_Rock_b.flac</filename>
+    <filename>//cym_Rock_b.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -772,7 +772,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>/cra_Jazz.flac</filename>
+    <filename>//cra_Jazz.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -797,303 +797,27 @@
    <size>192</size>
    <noteList>
     <note>
-     <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.07</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>0</position>
-     <leadlag>0</leadlag>
-     <velocity>0.3</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>12</position>
-     <leadlag>0</leadlag>
-     <velocity>0.14</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>24</position>
-     <leadlag>0</leadlag>
-     <velocity>0.51</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>Cs0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>36</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.19</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>36</position>
-     <leadlag>0</leadlag>
-     <velocity>0.37</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.08</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>60</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.08</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>60</position>
-     <leadlag>0</leadlag>
-     <velocity>0.05</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>72</position>
-     <leadlag>0</leadlag>
-     <velocity>0.34</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>84</position>
-     <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
-     <pan_R>0.19</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>84</position>
-     <leadlag>0</leadlag>
-     <velocity>0.11</velocity>
-     <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>96</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.09</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>96</position>
-     <leadlag>0</leadlag>
-     <velocity>0.03</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>108</position>
-     <leadlag>0</leadlag>
-     <velocity>0.1</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>120</position>
-     <leadlag>0</leadlag>
-     <velocity>0.28</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
+     <instrument>3</instrument>
      <note_off>false</note_off>
     </note>
     <note>
      <position>144</position>
-     <leadlag>0.06</leadlag>
-     <velocity>0.17</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>168</position>
-     <leadlag>0.2</leadlag>
-     <velocity>0.37</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>17</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>192</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
-     <pan_R>0.08</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>192</position>
-     <leadlag>0</leadlag>
-     <velocity>0.33</velocity>
-     <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>204</position>
-     <leadlag>0</leadlag>
-     <velocity>0.13</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>216</position>
-     <leadlag>0</leadlag>
-     <velocity>0.44</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>228</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.06</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>228</position>
-     <leadlag>0</leadlag>
-     <velocity>0.3</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>252</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.1</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>3</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1108,91 +832,299 @@
      <instrument>18</instrument>
      <note_off>false</note_off>
     </note>
-    <note>
-     <position>276</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.06</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>288</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.14</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>312</position>
-     <leadlag>0</leadlag>
-     <velocity>0.39</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>336</position>
-     <leadlag>0</leadlag>
-     <velocity>0.11</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>360</position>
-     <leadlag>0</leadlag>
-     <velocity>0.37</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>17</instrument>
-     <note_off>false</note_off>
-    </note>
    </noteList>
   </pattern>
   <pattern>
    <name>Pattern 2</name>
    <category>not_categorized</category>
    <size>192</size>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>3</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 3</name>
    <category>not_categorized</category>
    <size>192</size>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>2</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>2</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 4</name>
    <category>not_categorized</category>
    <size>192</size>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>24</position>
+     <leadlag>0</leadlag>
+     <velocity>0.47</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.68</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>72</position>
+     <leadlag>0</leadlag>
+     <velocity>0.43</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.4</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.74</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.46</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 5</name>
    <category>not_categorized</category>
    <size>192</size>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>72</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>18</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.72</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>18</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.57</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>18</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>156</position>
+     <leadlag>0.16</leadlag>
+     <velocity>0.6</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>18</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>18</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>180</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>18</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 6</name>
@@ -1229,6 +1161,337 @@
  <patternSequence>
   <group>
    <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 2</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 2</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 2</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 2</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 2</patternID>
+   <patternID>Pattern 3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 4</patternID>
+   <patternID>Pattern 3</patternID>
+   <patternID>Pattern 1</patternID>
+   <patternID>Pattern 5</patternID>
   </group>
  </patternSequence>
  <ladspa>
