@@ -706,7 +706,7 @@
  </instrumentList>
  <patternList>
   <pattern>
-   <name>Lead in</name>
+   <name>1</name>
    <category>not_categorized</category>
    <size>96</size>
    <noteList>
@@ -773,7 +773,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>1</name>
+   <name>2</name>
    <category>not_categorized</category>
    <size>96</size>
    <noteList>
@@ -840,7 +840,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>1#2</name>
+   <name>3</name>
    <category>not_categorized</category>
    <size>96</size>
    <noteList>
@@ -907,7 +907,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>1#3</name>
+   <name>4</name>
    <category>not_categorized</category>
    <size>96</size>
    <noteList>
@@ -993,6 +993,85 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
+  </pattern>
+  <pattern>
+   <name>5</name>
+   <category>not_categorized</category>
+   <size>96</size>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.38</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>12</position>
+     <leadlag>0</leadlag>
+     <velocity>0.67</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>24</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0.12</leadlag>
+     <velocity>0.73</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>6</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>72</position>
+     <leadlag>0.14</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>2</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>84</position>
+     <leadlag>0.16</leadlag>
+     <velocity>0.59</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>2</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -1108,7 +1187,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>2</name>
+   <name>2asdf</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -1298,16 +1377,19 @@
  <virtualPatternList/>
  <patternSequence>
   <group>
-   <patternID>Lead in</patternID>
-  </group>
-  <group>
    <patternID>1</patternID>
   </group>
   <group>
-   <patternID>1#2</patternID>
+   <patternID>2</patternID>
   </group>
   <group>
-   <patternID>1#3</patternID>
+   <patternID>3</patternID>
+  </group>
+  <group>
+   <patternID>4</patternID>
+  </group>
+  <group>
+   <patternID>5</patternID>
   </group>
  </patternSequence>
  <ladspa>
