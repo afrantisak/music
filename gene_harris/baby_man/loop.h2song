@@ -2395,14 +2395,32 @@
    <patternID>10-17</patternID>
    <patternID>10-17a</patternID>
   </group>
-  <group/>
-  <group/>
-  <group/>
-  <group/>
-  <group/>
-  <group/>
-  <group/>
-  <group/>
+  <group>
+   <patternID>10-17</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+   <patternID>10-17a</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+  </group>
+  <group>
+   <patternID>10-17</patternID>
+   <patternID>10-17a</patternID>
+  </group>
   <group/>
   <group/>
   <group/>
