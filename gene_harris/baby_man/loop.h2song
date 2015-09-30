@@ -10,7 +10,7 @@
  <license>Unknown license</license>
  <loopEnabled>false</loopEnabled>
  <patternModeMode>true</patternModeMode>
- <mode>pattern</mode>
+ <mode>song</mode>
  <humanize_time>0</humanize_time>
  <humanize_velocity>0.45</humanize_velocity>
  <swing_factor>0.27</swing_factor>
@@ -2284,7 +2284,7 @@
    <patternID>19-21</patternID>
   </group>
   <group>
-   <patternID>19-21</patternID>
+   <patternID>18</patternID>
   </group>
   <group>
    <patternID>19-21</patternID>
@@ -2334,7 +2334,7 @@
    <patternID>19-21</patternID>
   </group>
   <group>
-   <patternID>19-21</patternID>
+   <patternID>18</patternID>
   </group>
   <group>
    <patternID>19-21</patternID>
