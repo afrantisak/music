@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="youtube_data" version="1.3.0" audacityversion="2.0.5" sel0="35.3500000000" sel1="37.4730000000" vpos="0" h="34.4550455730" zoom="253.7799574656" rate="44100.0">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="youtube_data" version="1.3.0" audacityversion="2.0.5" sel0="68.5100000000" sel1="70.5420000000" vpos="0" h="58.1659863946" zoom="86.1328125000" rate="44100.0">
 	<tags/>
 	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="306.15498866">
@@ -348,22 +348,23 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="16" height="73" minimized="0" isSelected="0">
-		<label t="0.00000000" t1="1.17000000" title="1"/>
-		<label t="1.17000000" t1="3.38900000" title="2"/>
-		<label t="3.38900000" t1="5.55200000" title="3"/>
-		<label t="5.55200000" t1="7.77400000" title="4"/>
-		<label t="7.77400000" t1="9.89400000" title="5"/>
-		<label t="9.89400000" t1="11.99500000" title="6"/>
-		<label t="11.99500000" t1="14.10700000" title="7"/>
-		<label t="26.87400000" t1="29.04900000" title="14"/>
-		<label t="29.04900000" t1="31.16900000" title="15"/>
-		<label t="35.60600000" t1="37.71800000" title="18"/>
-		<label t="43.93600000" t1="46.04000000" title="22"/>
-		<label t="60.46200000" t1="62.56600000" title="30"/>
-		<label t="77.02700000" t1="79.13900000" title="38"/>
-		<label t="85.52300000" t1="87.60300000" title="42"/>
-		<label t="87.60300000" t1="89.60500000" title="43"/>
-		<label t="89.60500000" t1="91.60700000" title="44"/>
+	<labeltrack name="Label Track" numlabels="17" height="73" minimized="0" isSelected="1">
+		<label t="0.00000000" t1="1.17000000" title="0"/>
+		<label t="1.17000000" t1="3.38900000" title="1"/>
+		<label t="3.38900000" t1="5.55200000" title="2"/>
+		<label t="5.55200000" t1="7.77400000" title="3"/>
+		<label t="7.77400000" t1="9.89400000" title="4"/>
+		<label t="9.89400000" t1="11.99500000" title="5"/>
+		<label t="11.99500000" t1="14.10700000" title="6"/>
+		<label t="26.87400000" t1="29.04900000" title="13"/>
+		<label t="29.04900000" t1="31.16900000" title="14"/>
+		<label t="35.60600000" t1="37.71800000" title="17"/>
+		<label t="43.93600000" t1="46.04000000" title="21"/>
+		<label t="60.46200000" t1="62.56600000" title="29"/>
+		<label t="68.51000000" t1="70.54200000" title="33"/>
+		<label t="77.02700000" t1="79.13900000" title="37"/>
+		<label t="85.52300000" t1="87.60300000" title="41"/>
+		<label t="87.60300000" t1="89.60500000" title="42"/>
+		<label t="89.60500000" t1="91.60700000" title="43"/>
 	</labeltrack>
 </project>
