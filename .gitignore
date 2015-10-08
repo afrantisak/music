@@ -1,9 +1,10 @@
 *~
-*.autosave.h2song
+*autosave.h2song
 *_data/
 *.aup
 *.mp3
 *.mov
 *.mp4
 thumbnail/
+.*.mscz,
 
