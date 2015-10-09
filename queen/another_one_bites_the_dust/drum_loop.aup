@@ -1,6 +1,25 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="drum_loop_data" version="1.3.0" audacityversion="2.0.5" sel0="0.0000000000" sel1="2.1860997732" vpos="0" h="0.9926530612" zoom="689.0625000000" rate="44100.0">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="drum_loop_data" version="1.3.0" audacityversion="2.0.5" sel0="0.0000000000" sel1="2.1860997732" vpos="0" h="0.0000000000" zoom="528.0551555442" rate="44100.0">
 	<tags/>
-	<import filename="Audio Track.ogg" offset="0.00000000" mute="0" solo="0" height="150" minimized="0" gain="1.0" pan="0.0"/>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="101386">
+				<waveblock start="0">
+					<simpleblockfile filename="e000027f.au" len="101386" min="-0.24826" max="0.271301" rms="0.039946"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="101386">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f82.au" len="101386" min="-0.217468" max="0.277985" rms="0.034402"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
 </project>
