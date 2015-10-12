@@ -984,7 +984,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>4</name>
+   <name>+4+a</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -1000,6 +1000,49 @@
      <instrument>4</instrument>
      <note_off>false</note_off>
     </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>4</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>4</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>180</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>4</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
+  </pattern>
+  <pattern>
+   <name>4+a</name>
+   <category>not_categorized</category>
+   <size>192</size>
+   <noteList>
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
@@ -1345,25 +1388,6 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Snare 4+</name>
-   <category>not_categorized</category>
-   <size>192</size>
-   <noteList>
-    <note>
-     <position>168</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>4</instrument>
-     <note_off>false</note_off>
-    </note>
-   </noteList>
-  </pattern>
-  <pattern>
    <name>Hat Off-beats</name>
    <category>not_categorized</category>
    <size>192</size>
@@ -1468,7 +1492,7 @@
   </group>
   <group>
    <patternID>2-4</patternID>
-   <patternID>4</patternID>
+   <patternID>+4+a</patternID>
   </group>
   <group>
    <patternID>5-8</patternID>
@@ -1500,7 +1524,7 @@
    <patternID>2-4</patternID>
   </group>
   <group>
-   <patternID>4</patternID>
+   <patternID>+4+a</patternID>
    <patternID>5-8</patternID>
    <patternID>2-4</patternID>
   </group>
@@ -1535,7 +1559,7 @@
   <group>
    <patternID>2-4</patternID>
    <patternID>5-8</patternID>
-   <patternID>4</patternID>
+   <patternID>+4+a</patternID>
   </group>
   <group>
    <patternID>5-8</patternID>
@@ -1576,18 +1600,70 @@
   </group>
   <group>
    <patternID>5-8</patternID>
-   <patternID>Snare 4+</patternID>
+   <patternID>4+a</patternID>
   </group>
   <group>
    <patternID>Hat Off-beats</patternID>
    <patternID>5-8</patternID>
   </group>
-  <group/>
-  <group/>
-  <group/>
-  <group/>
   <group>
-   <patternID>8</patternID>
+   <patternID>5-8</patternID>
+   <patternID>Crash on 1</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>Hat on 3+</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>4+a</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>Hat Off-beats</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>Crash on 1</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>+4+a</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>2-4</patternID>
+   <patternID>Crash on 1</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>2-4</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>2-4</patternID>
+  </group>
+  <group>
+   <patternID>5-8</patternID>
+   <patternID>2-4</patternID>
   </group>
  </patternSequence>
  <ladspa>

@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="instrumental_data" version="1.3.0" audacityversion="2.0.5" sel0="32.5174281900" sel1="32.5174281900" vpos="0" h="0.0000000000" zoom="6.1697683724" rate="44100.0">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="instrumental_data" version="1.3.0" audacityversion="2.0.5" sel0="84.1705018174" sel1="85.9533888459" vpos="0" h="76.0867299495" zoom="98.7162939580" rate="44100.0">
 	<tags/>
 	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
@@ -118,7 +118,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="11" height="73" minimized="0" isSelected="0">
+	<labeltrack name="Label Track" numlabels="17" height="73" minimized="0" isSelected="1">
 		<label t="7.10622301" t1="8.87391498" title="5"/>
 		<label t="14.13140571" t1="15.91429274" title="9"/>
 		<label t="21.11100322" t1="22.85337009" title="13"/>
@@ -130,5 +130,11 @@
 		<label t="47.40858689" t1="49.18134388" title="29"/>
 		<label t="49.18134388" t1="50.92371075" title="30"/>
 		<label t="54.39831445" t1="56.18120148" title="33"/>
+		<label t="56.18120148" t1="57.94382843" title="34"/>
+		<label t="61.44882224" t1="63.18105907" title="37"/>
+		<label t="63.18105907" t1="64.91329590" title="38"/>
+		<label t="64.91329590" t1="66.67592285" title="39"/>
+		<label t="78.92314113" t1="80.69589812" title="47"/>
+		<label t="84.17050182" t1="85.95338885" title="50"/>
 	</labeltrack>
 </project>
