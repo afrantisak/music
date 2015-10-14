@@ -7,4 +7,5 @@
 *.mp4
 thumbnail/
 .*.mscz,
+*.bak
 
