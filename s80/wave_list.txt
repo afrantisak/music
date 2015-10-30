@@ -1,0 +1,129 @@
+1 Pf Grand 86 Or D1 1/3 171 Gt Single 256 Wv MogBs2 341 Pc AgogoL 426 Dr HHOpn
+2 Pf Grand+ 87 Or D1 172 Gt SnglHi 257 Wv MogBs3 342 Pc GuiroL 427 Dr HHOpn2
+3 Pf Grand- 88 Or LesGrt 173 Gt StrtF 258 Wv FMBs1 343 Pc GiroCl 428 Dr HHTip
+4 Pf Brit 89 Or LesGr2 174 Gt ES335 259 Wv FMBs2 344 Pc TmblsL 429 Dr Ride
+5 Pf Brit+ 90 Or Rotar 175 Gt DistCl 260 Wv FMBs3 345 Pc TmblsH 430 Dr Ride2
+6 Pf Brit- 91 Or Clack 176 Gt DistMt 261 Wv FMBs4 346 Pc CuicaL 431 Dr Cup
+7 Pf CP80 92 Or LesWho 177 Gt FeedBk 262 Wv FMBs5 347 Pc CuicaH 432 Dr Cup2
+8 Pf CP80+ 93 Or SftTmp 178 Gt StlHrm 263 Wv FMBs6 348 Pc Wdblck 433 Dr Crash
+9 Pf CP80- 94 Or Perc 179 Gt StrHrm 264 Wv FMFnk 349 Pc Cabasa 434 Dr Crash2
+10 Pf Rho1P 95 Or Perc+ 180 Gt Dist2 265 Wv FMGtr 350 Pc Claves 435 Dr China
+11 Pf Rho1P+ 96 Or Perc- 181 Ba Acstic 266 Wv Late-S 351 Pc Castnt 436 Dr China2
+12 Pf Rho1P- 97 Or Harmnc 182 Ba Acstc+ 267 Wv Late-L 352 Pc Maracs 437 Dr T8BdBm
+13 Pf Rho1L 98 Or Acrdn 183 Ba Acstc- 268 Wv P5Saw 353 Pc Shaker 438 Dr T8Bd
+14 Pf Rho1L+ 99 Or Acrdn+ 184 Ba Fing 269 Wv Saw2 354 Pc Tmborn 439 Dr T8SD1
+15 Pf Rho1L- 100 Or Acrdn- 185 Ba Fing+ 270 Wv 1o1Saw 355 Pc TrangL 440 Dr T8SD2
+16 Pf Rho2S 101 Cp FngCym 186 Ba Fing- 271 Wv 1o1Sub 356 Pc VbSlp 441 Dr T8SD3
+17 Pf Rho2S+ 102 Cp Hibasi 187 Ba Harmnc 272 Wv SawSqu 357 Pc JnglBl 442 Dr T8SD4
+18 Pf Rho2S- 103 Cp StoneH 188 Ba Precsn 273 Wv SquSaw 358 Pc Clap 443 Dr T8Side
+19 Pf Rho2M 104 Cp StoneS 189 Ba Prcsn+ 274 Wv MgRamp 359 Pc Whistl 444 Dr T8Rmst
+20 Pf Rho2M+ 105 Cp Gamln1 190 Ba Pecsn- 275 Wv P10-1 360 Pc Bltree 445 Dr T8Clap
+21 Pf Rho2M- 106 Cp Gamln2 191 Ba PrsRw 276 Wv P10-2 361 Pc AnvlHt 446 Dr T8Tom
+22 Pf Rho2H 107 Cp Glock 192 Ba PrsRw+ 277 Wv P10-3 362 Pc AnvlPp 447 Dr T8HHCl
+23 Pf Rho2H+ 108 Cp Marimb 193 Ba PrsRw- 278 Wv P25-1 363 Pc Scrch1 448 Dr T8HHOp
+24 Pf Rho2H- 109 Cp Vibra 194 Ba Pick 279 Wv P25-2 364 Pc Scrch2 449 Dr T8Crsh
+25 Pf Rho3 110 Cp Xylo 195 Ba Slap 280 Wv P50-1 365 Pc VoxDrm 450 Dr T8CngL
+26 Pf Rho3+ 111 Cp HndBel 196 Ba Slap+ 281 Wv P50-2 366 Pc Ripper 451 Dr T8CngM
+27 Pf Rho3- 112 Cp Crotls 197 Ba Slap- 282 Wv Tri 367 Pc CONG 452 Dr T8CngH
+28 Pf Rho4 113 Cp Timpni 198 Ba Slap2 283 Wv Digi01 368 Pc StlClp 453 Dr T8Cwbl
+29 Pf Rho4+ 114 Br SectnL 199 Ba Slap2+ 284 Wv Digi02 369 Pc WdBlk 454 Dr T8Clve
+30 Pf Rho4- 115 Br SectnR 200 Ba Slap2- 285 Wv Digi03 370 Dr BdStd 455 Dr T8Mrcs
+31 Pf Wurli 116 Br SctnSt 201 Ba Frtl1 286 Wv Digi04 371 Dr BdPop 456 Dr T9BD1
+32 Pf Wurli+ 117 Br SctnL- 202 Ba Frtl1+ 287 Wv Digi05 372 Dr BdHby 457 Dr T9BD2
+33 Pf Wurli- 118 Br SctnR- 203 Ba Frtl1- 288 Wv Digi06 373 Dr BdLoJz 458 Dr T9BD3
+34 Pf DX1 119 Br SctSt- 204 Ba Frtl2 289 Wv Digi07 374 Dr BdVar1 459 Dr T9SD1
+35 Pf DX2 120 Br Sctn2L 205 Ba Frtl2+ 290 Wv Digi08 375 Dr BdVar2 460 Dr T9SD2
+36 Pf DX3 121 Br Sctn2R 206 Ba Frtl2- 291 Wv Digi09 376 Dr BdVar3 461 Dr T9SD3
+37 Pf Clav1 122 Br Sct2St 207 Ba SyBass 292 Wv Digi10 377 Dr BdVar4 462 Dr T9SD4
+38 Pf Clav1+ 123 Br Sct2L+ 208 En SynVox 293 Wv Digi11 378 Dr BdVar5 463 Dr T9SD5
+39 Pf Clav1- 124 Br SctnR+ 209 En VxNoiz 294 Wv Digi12 379 Dr BdAna 464 Dr T9SD6
+40 Pf Clav2 125 Br Sct2S+ 210 En Aah 295 Wv Bel1Wv 380 Dr SdGM 465 Dr T9Clap
+41 Pf Clav2+ 126 Br Sct2L- 211 En Aah+ 296 Wv Bel2Wv 381 Dr SdBldS 466 Dr T9Rim
+42 Pf Clav2- 127 Br Sct2R- 212 En Aah- 297 Wv DgVox1 382 Dr SdBldH 467 Dr T9TomL
+43 Pf Clav3 128 Br Sct2S- 213 En Oooo 298 Wv DgVox2 383 Dr SdFsnH 468 Dr T9TomM
+44 Pf Clav3+ 129 Br Trmbn 214 En Oooo+ 299 Wv DgVox3 384 Dr SdLdwH 469 Dr T9TomH
+45 Pf Clav3- 130 Br Trmbn- 215 En Oooo- 300 Wv DgVox4 385 Dr SdSonA 470 Dr T9HHC1
+46 Pf Hrpscd 131 Br SftTrb 216 En Itopia 301 Wv DgVox5 386 Dr SdSonD 471 Dr T9HHC2
+47 Or JmPrc 132 Br SftFlg 217 Rd Alto 302 Wv VoxG2 387 Dr SdHvy 472 Dr T9HHO1
+48 Or JmPrc- 133 Br SftFl- 218 Rd Alto+ 303 Wv VoxE3 388 Dr SdPclH 473 Dr T9HHO2
+49 Or Jazz 134 Br Hermn 219 Rd Alto- 304 Wv Ep1 389 Dr SdPcBH 474 Dr T9Crsh
+50 Or Jazz+ 135 Br Strgt 220 Rd Tenor 305 Wv Ep2 390 Dr SdPrmH 475 Dr T9Ride
+51 Or Jazz- 136 Br TrpMed 221 Rd Tenor+ 306 Wv Ep3 391 Dr SdWdH 476 Dr EuroBD
+52 Or Rock 137 Br TrpSft 222 Rd Tenor- 307 Wv Ep4 392 Dr SdVar1 477 Dr DstKik
+53 Or Rock+ 138 Br Trmpt 223 Rd Bari 308 Wv Ep5 393 Dr SdVar2 478 Dr Bd Kit
+54 Or Rock- 139 Br Trmpt+ 224 Rd BigSx1 309 Wv EP6 394 Dr SdRim1 479 Dr Sn Kit
+55 Or Argent 140 Br Trmpt- 225 Rd BigSx2 310 Wv Org1Wv 395 Dr SdRim2 480 Pf Grand2
+56 Or BowVb 141 Br PiclTp 226 Rd SxBrth 311 Wv Org2Wv 396 Dr SdAmb1 481 Pf Grand2St
+57 Or BowNv 142 Br F.Horn 227 Rd Soprn 312 Wv Org3Wv 397 Dr SdAmb2 482 Pf Grand2L
+58 Or Gospel 143 Br Combi1 228 Rd Soprn+ 313 Wv Sin 398 Dr SdAmb3 483 Pf Grand2R
+59 Or Green 144 Br Combi2 229 Rd Soprn- 314 Wv Noise 399 Dr SdBkBt 484 Pf Grand2+
+60 Or Santana 145 Br Combi3 230 Rd Clari 315 Wv PnoNP 400 Dr SdDry 485 Pf Grnd2St+
+61 Or Farfis 146 Br Combi4 231 Rd Clari+ 316 Wv EPNP 401 Dr SdSwep 486 Pf Grand2L+
+62 Or Farfi- 147 St Vln 232 Rd Clari- 317 Wv VibeNP 402 Dr SdBrsS 487 Pf Grand2R+
+63 Or VoxOrg 148 St Vln2 233 Rd Oboe 318 Fx VoxBel 403 Dr SdBrsH 488 Pf Grand2-
+64 Or VxOrg- 149 St Cello 234 Rd Oboe+ 319 Fx Melow 404 Dr SdBrsL 489 Pf Grnd2St-
+65 Or Swish 150 St EnsMx 235 Rd Oboe- 320 Fx WndChm 405 Dr SdRoll 490 Pf Grand2L-
+66 Or Swish- 151 St EnsMx- 236 Rd Basoon 321 Fx BelAir 406 Dr C.Rim1 491 Pf Grand2R-
+67 Or Dw1+3 152 St SmlEns 237 Rd Basoon+ 322 Fx BigSyn 407 Dr C.Rim2 492 Pf Grand3
+68 Or Dw1+3+ 153 St SmlEn+ 238 Rd Basoon- 323 Fx TrnCho 408 Dr Stick 493 Pf Grand3St
+69 Or Dw1+3- 154 St SmlEn- 239 Pi Flute 324 Fx HanSol 409 Dr TomF 494 Pf Grand3L
+70 Or Dw2+4 155 St Pizz 240 Pi Flute+ 325 Fx Eery 410 Dr TomL 495 Pf Grand3R
+71 Or Dw2+4+ 156 St Pizz2 241 Pi Flute- 326 Fx Electr 411 Dr TomM 496 Pf Grand3+
+72 Or Dw2+4- 157 St Harp 242 Pi PnFlt 327 FX HH Hit 412 Dr TomHL 497 Pf Grnd3St+
+73 Or DrwEv 158 Gt Nylon 243 Pi PnFlt- 328 Fx VxAlk 413 Dr TomHH 498 Pf Grand3L+
+74 Or DrwEv+ 159 Gt NylnHi 244 Wv ModSaw 329 Fx HiLo 414 Dr TmJzL 499 Pf Grand3R+
+75 Or DrwEv- 160 Gt Nylhrm 245 Wv ObStr 330 Fx MltPno 415 Dr TmJzM 500 Pf Grand3-
+76 Or DrwOd 161 Gt Steel 246 Wv JpStr 331 Fx AHoseL 416 Dr TmJzH 501 Pf Grnd3St-
+77 Or DrwOd+ 162 Gt StelHi 247 Wv SyzStr 332 Fx AHoseR 417 Dr Tom2H 502 Pf Grand3L-
+78 Or DrwOd- 163 Gt StelLo 248 Wv Padd 333 Et StlDrm 418 Dr Tom2L 503 Pf Grand3R-
+79 Or D16 164 Gt JzGtr 249 Wv ObBrs 334 Et Sitar 419 Dr HHCl1 504 Pf Rho5H
+80 Or D5 1/3 165 Gt Strt 250 Wv SyncLd 335 Pc BongoL 420 Dr HHCL2 505 Pf Rho5M
+81 Or D8 166 Gt StrtN 251 Wv CS80Br 336 Pc BongoH 421 Dr HHCl3 506 Pf Rho5L
+82 Or D4 167 Gt StrtSl 252 Wv 3o3Saw 337 Pc CongaL 422 Dr HHCl4 507 Pf Rho5H+
+83 Or D2 2/3 168 Gt StrtSp 253 Wv 3o3Sw2 338 Pc CongaH 423 Dr HHCl5 508 Pf Rho5M+
+84 Or D2 169 Gt StrtMt 254 Wv 3o3Squ 339 Pc CngSlp 424 Dr HHPdl 509 Pf Rho5L+
+85 Or D1 3/5 170 Gt Front 255 Wv MogBs1 340 Pc Cowbel 425 Dr HHPdl2 510 Pf Rho5HNo.
+Cat./WaveName
+511 Pf Rho5M-
+512 Pf Rho5L-
+513 Pf Rho6H
+514 Pf Rho6L
+515 Pf Rho6H+
+516 Pf Rho6L+
+517 Pf Rho6H-
+518 Pf Rho6L-
+519 Or Pipe1St
+520 Or Pipe1L
+521 Or Pipe1R
+522 Or Pipe2
+523 Or Pipe3St
+524 Or Pipe3L
+525 Or Pipe3R
+526 Or Pipe4
+527 Or Pipe5
+528 Or Pipe6
+529 Or Pipe7
+530 En AahSt
+531 En AahL
+532 En AahR
+533 En AahC
+534 En AahSt+
+535 En AahL+
+536 En AahR+
+537 En AahC+
+538 En AahSt-
+539 En AahL-
+540 En AahR-
+541 En AahC-
+542 En OohSt
+543 En OohL
+544 En OohR
+545 En OohRich
+546 En OohSt+
+547 En OohL+
+548 En OohR+
+549 En OohRich+
+550 En OohSt-
+551 En OohL-
+552 En OohR-
+553 En OohRichW
