@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="holy_rhodes_data" version="1.3.0" audacityversion="2.0.5" sel0="13.6591383200" sel1="15.6212244900" vpos="0" h="11.6796371882" zoom="172.2656250000" rate="44100.0">
+	<tags/>
+	<wavetrack name="Audio Track" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="2823653">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ebe.au" len="524288" min="-0.866547" max="0.847565" rms="0.177489"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000ea6.au" len="524288" min="-0.840485" max="0.870972" rms="0.174681"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e000001b.au" len="524288" min="-0.840271" max="0.887268" rms="0.193919"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00007a7.au" len="524288" min="-0.829163" max="0.846405" rms="0.174813"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000d65.au" len="524288" min="-0.873932" max="0.910522" rms="0.207146"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e00004f9.au" len="202213" min="-0.8591" max="0.859924" rms="0.143626"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="2823653">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000151.au" len="524288" min="-0.841125" max="0.861694" rms="0.186577"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000c97.au" len="524288" min="-0.825073" max="0.869934" rms="0.180323"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e000020f.au" len="524288" min="-0.819336" max="0.853577" rms="0.200353"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00007e5.au" len="524288" min="-0.862732" max="0.847809" rms="0.174122"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000417.au" len="524288" min="-0.899933" max="0.841705" rms="0.207702"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000534.au" len="202213" min="-0.805542" max="0.821533" rms="0.144994"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="32" height="73" minimized="0" isSelected="1">
+		<label t="0.00000000" t1="1.99691610" title="1"/>
+		<label t="1.99691610" t1="3.88969970" title="2"/>
+		<label t="3.88969970" t1="5.83401361" title="3"/>
+		<label t="5.83401361" t1="7.77939940" title=" 4"/>
+		<label t="7.77359441" t1="9.72335601" title="5"/>
+		<label t="9.72335601" t1="11.67383220" title="6"/>
+		<label t="11.67963719" t1="13.65913832" title="7"/>
+		<label t="13.65913832" t1="15.62122449" title="8"/>
+		<label t="15.62122449" t1="17.58331066" title="9"/>
+		<label t="17.58331066" t1="19.56716731" title="10"/>
+		<label t="19.56716731" t1="21.54231293" title="11"/>
+		<label t="21.54231293" t1="23.52181406" title="12"/>
+		<label t="23.52181406" t1="25.45487528" title="13"/>
+		<label t="25.45487528" t1="27.42567924" title="14"/>
+		<label t="27.42567924" t1="29.41968254" title="15"/>
+		<label t="29.41968254" t1="31.40767690" title="16"/>
+		<label t="31.40767690" t1="33.37287982" title="17"/>
+		<label t="33.37287982" t1="35.33693287" title="18"/>
+		<label t="35.33693287" t1="37.31446712" title="19"/>
+		<label t="37.31446712" t1="39.28596698" title="20"/>
+		<label t="39.28596698" t1="41.27927438" title="21"/>
+		<label t="41.27927438" t1="43.24255841" title="22"/>
+		<label t="43.24255841" t1="45.20344671" title="23"/>
+		<label t="45.20344671" t1="47.14811791" title="24"/>
+		<label t="47.14811791" t1="49.13922902" title="25"/>
+		<label t="49.13922902" t1="51.13034014" title="26"/>
+		<label t="51.13034014" t1="53.10984127" title="27"/>
+		<label t="53.10984127" t1="55.08934240" title="28"/>
+		<label t="55.08353741" t1="57.04562358" title="29"/>
+		<label t="57.04562358" t1="59.01351474" title="30"/>
+		<label t="59.01351474" t1="60.97560091" title="31"/>
+		<label t="60.97560091" t1="63.07700680" title="32"/>
+	</labeltrack>
+</project>
