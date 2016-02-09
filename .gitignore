@@ -5,6 +5,7 @@
 *.mp3
 *.mov
 *.mp4
+*.m4a
 thumbnail/
 .*.mscz,
 *.bak
