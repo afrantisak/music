@@ -9,4 +9,8 @@
 thumbnail/
 .*.mscz,
 *.bak
+*.pdf
+*.wav
+*.opus
+*.ogg
 
