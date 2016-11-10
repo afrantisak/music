@@ -1,0 +1,3 @@
+recordmydesktop --device="plug:pcm.jack" --windowid=0x2c0000f
+xjadeo out.ogv
+xwininfo -display :0
