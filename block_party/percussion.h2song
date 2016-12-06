@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
- <version>0.9.6-beta3</version>
+ <version>0.9.6.1</version>
  <bpm>127</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
@@ -102,10 +102,53 @@
    </layer>
   </instrument>
   <instrument>
-   <id>2</id>
-   <name>Snare Jazz</name>
-   <drumkit>GMkit</drumkit>
-   <volume>1</volume>
+   <id>19</id>
+   <name>Hand Clap</name>
+   <drumkit>Audiophob</drumkit>
+   <volume>1.2931</volume>
+   <isMuted>false</isMuted>
+   <pan_L>1</pan_L>
+   <pan_R>1</pan_R>
+   <gain>1</gain>
+   <filterActive>true</filterActive>
+   <filterCutoff>1</filterCutoff>
+   <filterResonance>0</filterResonance>
+   <FX1Level>0</FX1Level>
+   <FX2Level>0</FX2Level>
+   <FX3Level>0</FX3Level>
+   <FX4Level>0</FX4Level>
+   <Attack>0</Attack>
+   <Decay>0</Decay>
+   <Sustain>1</Sustain>
+   <Release>1000</Release>
+   <randomPitchFactor>0</randomPitchFactor>
+   <muteGroup>-1</muteGroup>
+   <isStopNote>false</isStopNote>
+   <midiOutChannel>-1</midiOutChannel>
+   <midiOutNote>60</midiOutNote>
+   <layer>
+    <filename>29800__stomachache__3.wav</filename>
+    <ismodified>false</ismodified>
+    <smode>forward</smode>
+    <startframe>0</startframe>
+    <loopframe>0</loopframe>
+    <loops>0</loops>
+    <endframe>0</endframe>
+    <userubber>0</userubber>
+    <rubberdivider>1</rubberdivider>
+    <rubberCsettings>4</rubberCsettings>
+    <rubberPitch>1</rubberPitch>
+    <min>0</min>
+    <max>1</max>
+    <gain>1</gain>
+    <pitch>0</pitch>
+   </layer>
+  </instrument>
+  <instrument>
+   <id>20</id>
+   <name>Clap</name>
+   <drumkit>ElectricEmpireKit</drumkit>
+   <volume>0.8</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -123,11 +166,11 @@
    <Release>1000</Release>
    <randomPitchFactor>0</randomPitchFactor>
    <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
+   <isStopNote>true</isStopNote>
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//sn_Jazz_c.flac</filename>
+    <filename>EE_Clap.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -161,9 +204,9 @@
    <FX3Level>0</FX3Level>
    <FX4Level>0</FX4Level>
    <Attack>0</Attack>
-   <Decay>0</Decay>
+   <Decay>86490</Decay>
    <Sustain>1</Sustain>
-   <Release>1000</Release>
+   <Release>100256</Release>
    <randomPitchFactor>0</randomPitchFactor>
    <muteGroup>-1</muteGroup>
    <isStopNote>false</isStopNote>
@@ -188,96 +231,10 @@
    </layer>
   </instrument>
   <instrument>
-   <id>17</id>
-   <name>Snare Rock ghost</name>
-   <drumkit>UltraAcousticKit</drumkit>
-   <volume>1.09914</volume>
-   <isMuted>false</isMuted>
-   <pan_L>0.9</pan_L>
-   <pan_R>1</pan_R>
-   <gain>1</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>//Snare_Rock_ghost.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
-   <id>18</id>
-   <name>Snare Reg 1a</name>
-   <drumkit>UltraAcousticKit</drumkit>
-   <volume>0.685345</volume>
-   <isMuted>false</isMuted>
-   <pan_L>1</pan_L>
-   <pan_R>1</pan_R>
-   <gain>2</gain>
-   <filterActive>true</filterActive>
-   <filterCutoff>1</filterCutoff>
-   <filterResonance>0</filterResonance>
-   <FX1Level>0</FX1Level>
-   <FX2Level>0</FX2Level>
-   <FX3Level>0</FX3Level>
-   <FX4Level>0</FX4Level>
-   <Attack>0</Attack>
-   <Decay>0</Decay>
-   <Sustain>1</Sustain>
-   <Release>1000</Release>
-   <randomPitchFactor>0</randomPitchFactor>
-   <muteGroup>-1</muteGroup>
-   <isStopNote>false</isStopNote>
-   <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
-   <layer>
-    <filename>//Snare_Reg_1a.wav</filename>
-    <ismodified>false</ismodified>
-    <smode>forward</smode>
-    <startframe>0</startframe>
-    <loopframe>0</loopframe>
-    <loops>0</loops>
-    <endframe>0</endframe>
-    <userubber>0</userubber>
-    <rubberdivider>1</rubberdivider>
-    <rubberCsettings>4</rubberCsettings>
-    <rubberPitch>1</rubberPitch>
-    <min>0</min>
-    <max>1</max>
-    <gain>1</gain>
-    <pitch>0</pitch>
-   </layer>
-  </instrument>
-  <instrument>
    <id>4</id>
    <name>Snare Rock</name>
    <drumkit>GMkit</drumkit>
-   <volume>1</volume>
+   <volume>0.698276</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -792,13 +749,49 @@
  </instrumentList>
  <patternList>
   <pattern>
-   <name>Pattern 1</name>
+   <name>Claps 2+4</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
     <note>
      <position>48</position>
-     <leadlag>0</leadlag>
+     <leadlag>-0.1</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>3</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0.34</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>19</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>-0.12</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>20</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0.18</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
@@ -810,32 +803,32 @@
     </note>
     <note>
      <position>144</position>
-     <leadlag>0</leadlag>
+     <leadlag>-0.28</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>3</instrument>
+     <instrument>19</instrument>
      <note_off>false</note_off>
     </note>
     <note>
-     <position>264</position>
-     <leadlag>0</leadlag>
-     <velocity>0.42</velocity>
+     <position>144</position>
+     <leadlag>0.34</leadlag>
+     <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>18</instrument>
+     <instrument>20</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
   </pattern>
   <pattern>
-   <name>Pattern 2</name>
+   <name>Clap 3+</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -854,14 +847,26 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Pattern 3</name>
+   <name>Kick &amp; Snare</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
     <note>
      <position>0</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.69</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0.22</leadlag>
+     <velocity>0.7</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -879,25 +884,13 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>48</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>4</instrument>
      <note_off>false</note_off>
     </note>
     <note>
      <position>120</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.28</leadlag>
+     <velocity>0.5</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -915,7 +908,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>2</instrument>
+     <instrument>4</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -932,8 +925,8 @@
     </note>
     <note>
      <position>168</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <leadlag>0.16</leadlag>
+     <velocity>0.39</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -945,7 +938,7 @@
    </noteList>
   </pattern>
   <pattern>
-   <name>Pattern 4</name>
+   <name>HH/8ths</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -1053,7 +1046,7 @@
    <size>192</size>
    <noteList>
     <note>
-     <position>72</position>
+     <position>84</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1061,67 +1054,19 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>120</position>
-     <leadlag>0</leadlag>
-     <velocity>0.72</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
+     <instrument>4</instrument>
      <note_off>false</note_off>
     </note>
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.57</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>156</position>
-     <leadlag>0.16</leadlag>
-     <velocity>0.6</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>168</position>
-     <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>18</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>180</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>18</instrument>
+     <instrument>4</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -1130,7 +1075,32 @@
    <name>Pattern 6</name>
    <category>not_categorized</category>
    <size>192</size>
-   <noteList/>
+   <noteList>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>4</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>156</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>4</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
   </pattern>
   <pattern>
    <name>Pattern 7</name>
@@ -1160,338 +1130,353 @@
  <virtualPatternList/>
  <patternSequence>
   <group>
-   <patternID>Pattern 1</patternID>
+   <patternID>Claps 2+4</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
+   <patternID>Claps 2+4</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 1</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>Claps 2+4</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 2</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Clap 3+</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 2</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Clap 3+</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 2</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Clap 3+</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
   </group>
   <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 2</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 1</patternID>
-   <patternID>Pattern 2</patternID>
-   <patternID>Pattern 3</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 1</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 1</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 1</patternID>
-  </group>
-  <group>
-   <patternID>Pattern 4</patternID>
-   <patternID>Pattern 3</patternID>
-   <patternID>Pattern 1</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
    <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Clap 3+</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>HH/8ths</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Clap 3+</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>HH/8ths</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Pattern 6</patternID>
+  </group>
+  <group>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>HH/8ths</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Pattern 5</patternID>
+  </group>
+  <group>
+   <patternID>HH/8ths</patternID>
+   <patternID>Kick &amp; Snare</patternID>
+   <patternID>Claps 2+4</patternID>
+   <patternID>Pattern 6</patternID>
   </group>
  </patternSequence>
  <ladspa>
