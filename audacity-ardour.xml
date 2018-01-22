@@ -1,0 +1,27 @@
+<!DOCTYPE patchbay>
+<patchbay version="0.3.10" name="audacity-ardour">
+ <output-sockets>
+  <socket exclusive="off" client="PortAudio" type="jack-audio" name="Audacity PortAudio L">
+   <plug>out_*[13579]$</plug>
+  </socket>
+  <socket exclusive="off" client="PortAudio" type="jack-audio" name="Audacity PortAudio R">
+   <plug>out_*[02468]$</plug>
+  </socket>
+ </output-sockets>
+ <input-sockets>
+  <socket exclusive="off" client="ardour" type="jack-audio" name="Ardour Input L">
+   <plug>Audio 1/audio_in 1</plug>
+   <plug>monitor/audio_in 1</plug>
+  </socket>
+  <socket exclusive="off" client="ardour" type="jack-audio" name="Ardour Input R">
+   <plug>Audio 1/audio_in 2</plug>
+   <plug>monitor/audio_in 2</plug>
+  </socket>
+ </input-sockets>
+ <slots/>
+ <cables>
+  <cable output="Audacity PortAudio L" input="Ardour Input L" type="jack-audio"/>
+  <cable output="Audacity PortAudio R" input="Ardour Input R" type="jack-audio"/>
+ </cables>
+</patchbay>
+
